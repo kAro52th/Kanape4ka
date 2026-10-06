@@ -1,0 +1,24 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/Kanape4ka/v18/Insiders/Browse.VC.opendb
+/.vs/Kanape4ka/v18/Insiders/Browse.VC.db-shm
+/.vs/Kanape4ka/v18/Insiders/Browse.VC.db-wal
+/.vs/Kanape4ka/v18/Insiders/Browse.VC.db
+/.vs/Kanape4ka/v18/Insiders/ipch/AutoPCH/c5ee57edfb0ceb81/ПРАКТИЧЕСКОЕ ЗАНЯТИЕ 2.ipch
+/.vs/Kanape4ka/FileContentIndex/c1fdb8f0-9375-4893-a3be-d956aa1da4e2.vsidx
+/.vs/Kanape4ka/FileContentIndex/0e633a25-af5d-42bd-a8f8-179bf332a027.vsidx
+/.vs/Kanape4ka/FileContentIndex/372f1ce9-04c6-4a81-9fe8-bddf5727972c.vsidx
+/.vs/Kanape4ka/FileContentIndex/a1e4e1fe-0f60-4d24-b3b1-4d5fc40c0d2a.vsidx
+/.vs/Kanape4ka/FileContentIndex/df53be9e-3993-4823-bb5d-cf4125c588f9.vsidx
+/.vs/Kanape4ka/FileContentIndex/4426bf4e-5eee-4fb3-8b3b-5cda6d67d772.vsidx
+/.vs/Kanape4ka/FileContentIndex/60f2450c-30a3-468d-a46e-5c44ba570b33.vsidx
+/.vs/Kanape4ka/FileContentIndex/22b3827e-14ea-4835-8f54-0a04e4067b3e.vsidx
+/.vs/Kanape4ka/FileContentIndex/4b64eb13-79ad-4ffb-bb14-d1eda1927214.vsidx
+/.vs/Kanape4ka/FileContentIndex/9eaa2508-1a12-43e0-8081-506a0edf0da0.vsidx
+/.vs/slnx.sqlite-journal
+/.vs/Kanape4ka/FileContentIndex/d86f4e4a-2f54-4f8d-a573-39a1f7f08c4b.vsidx
+*.vsidx
